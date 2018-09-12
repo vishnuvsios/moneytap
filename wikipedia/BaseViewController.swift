@@ -11,7 +11,7 @@ import UIKit
 import NVActivityIndicatorView
 import SDWebImage
 import KeychainSwift
-
+ 
 class BaseViewController: UIViewController,NVActivityIndicatorViewable {
     
     let keychain = KeychainSwift()
