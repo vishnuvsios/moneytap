@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (4.7.2)
+  - IQKeyboardManagerSwift (6.0.4)
+  - KeychainSwift (11.0.0)
+  - NVActivityIndicatorView (4.2.1):
+    - NVActivityIndicatorView/Presenter (= 4.2.1)
+  - NVActivityIndicatorView/Presenter (4.2.1)
+  - SDWebImage (4.4.1):
+    - SDWebImage/Core (= 4.4.1)
+  - SDWebImage/Core (4.4.1)
+  - SwiftyJSON (3.0.0)
+  - TextFieldEffects (1.4.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - IQKeyboardManagerSwift
+  - KeychainSwift (~> 11.0)
+  - NVActivityIndicatorView
+  - SDWebImage (~> 4.0)
+  - SwiftyJSON (= 3.0.0)
+  - TextFieldEffects
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  IQKeyboardManagerSwift: 36dbe324b4f9793f5f41ba5227f3e7c76dfefd50
+  KeychainSwift: bea6bd9f98af7b8d7ca4aa79fe105c00fab532db
+  NVActivityIndicatorView: 8068ba3ad39cb44cbaab25d89ff2546b3f092681
+  SDWebImage: 47e9b5b925cbce75946c23f0c42dd19464189af4
+  SwiftyJSON: f57b2b44bc166617372d1c70773591fe9f0f5fd4
+  TextFieldEffects: 4ee41b5216e674d55fb6ac25107bf1af7629176f
+
+PODFILE CHECKSUM: c2214943bd1620d3cc5fbe817bf869a455d417ab
+
+COCOAPODS: 1.4.0
